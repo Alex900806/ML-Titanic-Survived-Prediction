@@ -18,3 +18,18 @@
 - 學習使用 Python 中的數據處理和機器學習庫，如 Pandas、sklearn。
 - 學習使用 Matplotlib 來可視化屬性和存活率之間的關係。
 - 獲取了對於模型準確度評估的經驗。
+
+## 測試結果
+
+| Models                 | Score  |
+| ---------------------- | ------ |
+| Decision Tree          | 86.420 |
+| Random Forest          | 86.420 |
+| Support Vector Machine | 83.389 |
+| KNN                    | 82.716 |
+| Logistic Regression    | 80.808 |
+| Naive Bayes            | 77.104 |
+
+## 年齡特徵與存活率關係可視化圖片範例
+
+![image](https://github.com/Alex900806/ML-Titanic-Survived-Prediction/blob/main/images/example.png)
