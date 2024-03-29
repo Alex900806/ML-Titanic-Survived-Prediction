@@ -1,4 +1,4 @@
-# ML-Titanic-Survived-Prediction
+# ML Titanic Survived Prediction
 
 這是一個基於機器學習的泰坦尼克號生存預測專案，通過分析泰坦尼克號乘客的屬性和生存情況，我使用機器學習模型來預測乘客是否生還。
 
